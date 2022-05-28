@@ -1,20 +1,26 @@
 <img src="/img/Evgeni.jpg" width="220" height="250" />
 #***Yuaheni Savitsky***
-##Personal information
-*Adress: Belarus, Minsk
-*Tel: +375297680266
-*email: zheni11seg@gmail.com
-*github: github.com/segheim
-*discord: Yauheni Savitsky(@Segheim)
+
+##Personal information  
+*Adress: Belarus, Minsk  
+*Tel: +375297680266  
+*email: zheni11seg@gmail.com  
+*github: github.com/segheim  
+*discord: Yauheni Savitsky(@Segheim)  
+
 ##Summary
+
 I want to change a job. IT is time big moder, interestin and rapid development spheare, which i chose.  I finished course in EPAM: Java Web Developer  and now i want to learn Java Script. My goals are new knowledges and skills. [Project example Spring Boot](https://github.com/segheim/MJCSchool)
+
 ##Skills
-*Java
-*REST
-*Spring Framework, Spring Boot, Spring Security
-*Hibernate
-*MySQL
-*Maven,Gradle
+
+*Java  
+*REST  
+*Spring Framework, Spring Boot, Spring Security  
+*Hibernate  
+*MySQL  
+*Maven,Gradle  
+
 ##Code example
 '''
 public class Kata {
@@ -35,13 +41,18 @@ public class Kata {
 }
 '''
 ##Education
-*Course
-+Java Web Development
-*Belarussian University of Transport
-+Information transmission systems and comunication
+
+*Course  
++Java Web Development  
+*Belarussian University of Transport  
++Information transmission systems and comunication  
+
 ##Expirience
+
 *Alectrician - Minsk signaling and communication distance(Belarussian Railway Company)
+
 ##Languages
-*English - B1
-*Belarussian - native
-*Russian - native
+
+*English - B1  
+*Belarussian - native  
+*Russian - native  
