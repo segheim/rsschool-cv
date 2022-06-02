@@ -1,6 +1,6 @@
-<img src="/img/Evgeni.jpg" width="220" height="250" />
+<img src="https://github.com/segheim/rsschool-cv/blob/gh-pages/img/Evgeni.jpg" width="220" height="250" />
 
-# ***Yuaheni Savitsky***
+# ***Yauheni Savitsky***
 
 ## Personal information  
 * **Adress**  Belarus, Minsk  
