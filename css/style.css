@@ -45,12 +45,14 @@ body {
 
 .footer {
     border: 1px solid red;
+    background: rgb(218, 179, 163);
 }
 
 .container {
     max-width: 100%;
     min-height: 50px;
     margin: 0 auto;
+    padding: 40px;
 }
 
 .pre {
@@ -97,6 +99,7 @@ a.nav-link:hover {
 }
 
 .toggle {
+    display: none;
     padding: 5px;
     flex-direction: column;
     justify-content: center;
@@ -116,4 +119,12 @@ a.nav-link:hover {
     .toggle {
         display: flex;
     }
+}
+
+.container-footer {
+    text-align: center;
+}
+
+.section-profile {
+    text-align: center;
 }
