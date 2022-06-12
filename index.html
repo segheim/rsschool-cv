@@ -31,10 +31,17 @@
                     <li class="nav-item"><a href="#language" class="nav-link">Language</a></li>
                 </ul>
             </nav>
+            <div class="toggle">
+                <div class="lines">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line2"></div>
+                </div>
+            </div>
         </div>
     </header>
     <main class="main">
-        <div class="main-container">
+        <div class="container main-container">
             <section id="profile" class="section">
                 <div>
                     <img alt="myPhoto" src="assets/img/Evgeni.jpg" width="20%" height="20%" />
@@ -111,29 +118,26 @@
                 <h2 class="section-title">
                     Code
                 </h2>
-                <div>
-                    <pre>
-                        <code>
-                            public class Kata {
-                                public static String createPhoneNumber(int[] numbers) {
-                                    StringBuilder line = new StringBuilder();
-                                    line.append("(");
-                                    for (int i = 0; i < numbers.length; i++) {
-                                        line.append(numbers[i]);
-                                        if (i == 2) {
-                                            line.append(") ");
-                                        }
-                                        if (i == 5) {
-                                            line.append("-");
-                                        }
-                                    }
-                                    return line.toString();
-                                }
-                            }
-                        </code>
-                    </pre>
-                </div>
-
+                <pre class="pre">
+                    <code>
+public class Kata {
+    public static String createPhoneNumber(int[] numbers) {
+        StringBuilder line = new StringBuilder();
+        line.append("(");
+        for (int i = 0; i < numbers.length; i++) {
+            line.append(numbers[i]);
+            if (i == 2) {
+                line.append(") ");
+            }
+            if (i == 5) {
+                line.append("-");
+            }
+        }
+        return line.toString();
+    }
+}
+                    </code>
+                </pre>
             </section>
             <section id="education" class="section">
                 <h2 class="section-title">
