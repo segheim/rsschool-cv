@@ -122,7 +122,8 @@ a.nav-link:hover {
 }
 
 .container-footer {
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 .section-profile {
